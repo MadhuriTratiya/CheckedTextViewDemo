@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApp1</string>
+    <string name="msg_show">CTView is</string>
+    <string name="Checked">Checked is</string>
+    <string name="Unchecked">UnChecked is</string>
+    <string name="CheckedTextView">CheckedTextView</string>
+
+</resources>
